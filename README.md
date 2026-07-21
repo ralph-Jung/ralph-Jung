@@ -1,7 +1,5 @@
 ### Hi, I'm Ralph 👋
 
-> 개념이 아니라 "그때 그 질문"으로 되찾는 개발 학습 기록
-
 <div align="center">
 
 <!-- GitHub Stats Card -->
