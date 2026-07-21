@@ -2,6 +2,11 @@
 
 <div align="center">
 
+<!-- gitanimals: 커밋으로 키우는 픽셀 농장 -->
+<a href="https://gitanimals.org">
+  <img src="https://render.gitanimals.org/farms/ralph-Jung"/>
+</a>
+
 <!-- GitHub Stats Card -->
 [![ralph-Jung's GitHub stats](https://github-stats-extended.vercel.app/api?username=ralph-Jung&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)](https://github.com/ralph-Jung)
 
