@@ -29,15 +29,15 @@
 <ul>
  <li>
     <img src="https://github.com/user-attachments/assets/adbe4835-a018-4579-8d6f-68c0de5ea49d" width="18" align="absmiddle">&nbsp;
-    <b>IT 연합 동아리 U.M.C</b> | 7기 Frontend(Web) (2024.09 ~ 2025.02)
+    <b>IT 연합 동아리 U.M.C</b> | 7기 Frontend (Web) (2024.09 ~ 2025.02)
   </li>
   <li>
     <img src="https://github.com/user-attachments/assets/adbe4835-a018-4579-8d6f-68c0de5ea49d" width="18" align="absmiddle">&nbsp;
-    <b>IT 연합 동아리 U.M.C</b> | 8기 Backend(Node.js) (2025.03 ~ 2025.08)
+    <b>IT 연합 동아리 U.M.C</b> | 8기 Backend (Node.js) (2025.03 ~ 2025.08)
   </li>
   <li>
     <img src="https://github.com/user-attachments/assets/a868e90f-7115-438c-a896-d6f51c97537c" width="18" align="absmiddle">&nbsp;
-    <b>IT 연합 동아리 잇타(It's TIME)</b> | 9기 Spring Boot (2026.03 ~ 2026.08)
+    <b>IT 연합 동아리 잇타(It's TIME)</b> | 9기 Backend (Spring Boot) (2026.03 ~ 2026.07)
   </li>
 </ul>
 
@@ -63,11 +63,11 @@
 <ul>
   <li>
     <img src="https://github.com/user-attachments/assets/dbf5619c-4db1-480c-b747-1b14d8f5041c" width="18" align="absmiddle">&nbsp;
-    <b><a href="https://github.com/TeamMody/mody-front">Mody</b> | AI 활용 사용자 맞춤 체형 분석, 스타일 및 패션 아이템 추천 서비스 (2024.9 ~ 2025.02)
+    <b><a href="https://github.com/TeamMody/mody-front">Mody</b> | AI 활용 사용자 맞춤 체형 분석, 스타일 및 패션 아이템 추천 서비스 (2024.12 ~ 2025.02)
   </li>
   <li>
     <img src="https://github.com/user-attachments/assets/88840a6f-29d0-47be-a8d7-13326d9ea32a" width="18" align="absmiddle">&nbsp;
-    <b><a href="https://github.com/Team-Omechu/Omechu-server">오메추</a></b> | 사용자 맥락 기반 맞춤 메뉴/맛집 추천 서비스 ( 오늘의 메뉴 추천 ) (?)
+    <b><a href="https://github.com/Team-Omechu/Omechu-server">오메추</a></b> | 사용자 맥락 기반 맞춤 메뉴/맛집 추천 서비스 ( 오늘의 메뉴 추천 ) (2025.06 ~ 2026.03)
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Olma-Web/OLma-FE/main/public/logo.svg" width="18" align="absmiddle">&nbsp;
