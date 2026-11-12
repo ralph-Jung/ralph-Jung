@@ -52,8 +52,7 @@
 <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/github%20actions-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" height="22" /><br>
 
-#### Studying
-<!-- 예시: <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" height="22" /> -->
+
 
 
 ## 💻 Project
