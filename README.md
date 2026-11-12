@@ -87,5 +87,7 @@
 
 ## 📃 Prize
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-
+  
+* **UMC 8기 데모데이 - 우수상** | UMC | 2025.08.22
+* **잇타 9기 - 최우수상** | 잇타 | 2026.07.18
 * **국가우수장학금(이공계)** | 과학기술정보통신부 | 2026.10.16
